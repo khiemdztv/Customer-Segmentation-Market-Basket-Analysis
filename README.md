@@ -234,21 +234,6 @@ Open `data_mining.pbix` in **Microsoft Power BI Desktop** to interact with the f
 
 ---
 
-## 👥 Team
-
-**Group 10 — Data Mining Course (ITS324_251_1_D04)**
-Banking University of Ho Chi Minh City | Instructor: Ngô Thanh Hùng
-
-| # | Member | Student ID | Role |
-|---|---|---|---|
-| 1 | Lâm Tuấn Vũ | 030239230292 | Project lead, results synthesis, conclusion |
-| 2 | Nguyễn Vũ Thắng | 030239230212 | Data cleaning pipeline, EDA, documentation |
-| 3 | **Đỗ Gia Khiêm** | **030239230090** | **RFM computation, K-Means clustering, Elbow method** |
-| 4 | Nguyễn Song Khang | — | Apriori algorithm, data visualizations |
-| 5 | Phạm Thanh Tuyền | — | Business recommendations, cross-sell strategy |
-
----
-
 ## 📚 References
 
 1. Agrawal, R. & Srikant, R. (1994). *Fast algorithms for mining association rules.* VLDB Conference.
